@@ -33,7 +33,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		System.out.println("gitTest");
-		
+		/*들어왔습니다.*/
 		return "home";
 	}
 	
